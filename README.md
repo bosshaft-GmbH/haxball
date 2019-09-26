@@ -1,6 +1,6 @@
 # Bosshaft's Haxball
-![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)[![star this repo](http://githubbadges.com/star.svg?user=boennemann&repo=badges&style=flat)](https://github.com/boennemann/badges)
-[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/boennemann/badges/fork)
+![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)[![star this repo](http://githubbadges.com/star.svg?user=bosshaft-GmbH&repo=haxball&style=flat)](https://github.com/boennemann/badges)
+[![fork this repo](http://githubbadges.com/fork.svg?user=bosshaft-GmbH&repo=haxball&style=flat)](https://github.com/boennemann/badges/fork)
 
 Official Bosshaft repository for HTML5 browser game Haxball.
 
