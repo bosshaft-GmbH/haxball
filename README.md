@@ -1,5 +1,5 @@
 # Bosshaft's Haxball
-(https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)
+!(https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)
 
 Official Bosshaft repository for HTML5 browser game Haxball.
 
