@@ -12,7 +12,6 @@ var room = HBInit({
 commands = {
 	"!radius": bosshaftRadius
 };
-
 function bosshaftRadius(r, o) {
 	let e = o.substr(8),
 	i = e.split("-").slice(0),
@@ -21,7 +20,6 @@ function bosshaftRadius(r, o) {
 		radius: t[0]
 	}), !1
 }
-
 function updateAdmins() {
 	var r = room.getPlayerList().filter(r => 0 != r.id);
 	0 != r.length && null == r.find(r => r.admin) && room.setPlayerAdmin(r[0].id, !0)
