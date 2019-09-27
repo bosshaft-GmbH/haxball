@@ -17,4 +17,4 @@ A script that gives you chance to change other players avatar by just writing a 
 2. Type # you will see names with ID's
 3. Pick the ID of the player. Let's say (1) Bosshaft
 4. On chat write, !avatar 1-10 and send.
-5. The 1 means ID, every player has different and unique ID. You need to write the player's ID who you want to change. The 10 means the avatar. You can make it 10, XD, ^^ or anything. Depends on you.  
+5. The 1 means ID, every player has different and unique ID. You need to write the player's ID who you want to change. The 10 means the avatar. You can make it 10, XD or anything. Depends on you.  
