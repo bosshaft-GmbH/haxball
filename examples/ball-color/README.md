@@ -24,8 +24,8 @@ The other way to do is using custom codes. Instead of making red, blue or the on
 
 You need to write different command for this.
 
-!customball 0-16363748
+!customball 16363748
 
-The 0 means ball, do not change it. And the 16363748 is code of our Pink color. (It's decimal value) Any decimal value you put here is gonna set as ball colour.
+The 16363748 is code of our Pink color. (It's decimal value) Any decimal value you put here is gonna set as ball colour.
 
 You can find any of the color's decimal value here: https://convertingcolors.com/
