@@ -5,6 +5,7 @@ A script to change ball color with a command.
 ## Changelog (last update: 30.09.2019)
 
 [+] Non admin players are not able to use the command anymore.
+
 [+] Implemented a version for automatically changing the color every second to random color values. You can comment it if you want to use only command version.
 
 ## How to run?
