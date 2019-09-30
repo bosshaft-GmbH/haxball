@@ -1,6 +1,6 @@
 # Bosshaft Ball Color
 
-A script to change ball color with a command. 
+A script to change ball color with a command or automatically.
 
 ## Changelog (last update: 30.09.2019)
 
